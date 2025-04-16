@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="67a99f12-4754-4174-8b99-0189cad8682d">
+  <producedTypes>
+    <objectType typeId="3ad8671e-f3f3-42b5-aefc-80310b41c569" valueTypeId="971f3b33-a760-4841-9b94-5e81d1de7a82"/>
+  </producedTypes>
+  <name>SimpleИнтеграцияГИСМТ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Simple: Интеграция ГИС МТ</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="81cb44dc-41a4-459e-8f51-af7061c1fe40"/>
+  <defaultForm>ExternalDataProcessor.SimpleИнтеграцияГИСМТ.Form.Тестирование</defaultForm>
+  <forms uuid="b099b9e5-b398-409f-8e0e-65f155de8d12">
+    <name>Тестирование</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тестирование</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
