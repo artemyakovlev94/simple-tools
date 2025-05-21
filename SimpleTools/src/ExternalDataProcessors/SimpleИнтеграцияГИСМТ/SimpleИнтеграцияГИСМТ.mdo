@@ -9,12 +9,21 @@
     <value>Simple: Интеграция ГИС МТ</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="81cb44dc-41a4-459e-8f51-af7061c1fe40"/>
-  <defaultForm>ExternalDataProcessor.SimpleИнтеграцияГИСМТ.Form.Тестирование</defaultForm>
+  <defaultForm>ExternalDataProcessor.SimpleИнтеграцияГИСМТ.Form.Настройки</defaultForm>
   <forms uuid="b099b9e5-b398-409f-8e0e-65f155de8d12">
     <name>Тестирование</name>
     <synonym>
       <key>ru</key>
       <value>Тестирование</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="05838fa4-cf57-475a-947b-e5856d4beab0">
+    <name>Настройки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
